@@ -1,0 +1,59 @@
+"dwc.preparations","freq"
+"Fluid",66124
+"Fluid; Tissue",803
+"Fluid; C&S skeleton",388
+"Dry skeleton",284
+"Tissue; Fluid",193
+"C&S skeleton",118
+"Fluid; Dry skeleton",67
+"-",61
+"Fluid; Scale",60
+"C&S skeleton; Fluid",44
+"Fluid; Tissue; Otolith",37
+"Dry skeleton; Fluid",32
+"Tissue",25
+"Fluid; Viscera",23
+"Dried whole",18
+"Tissue; Fluid; Otolith",16
+"Fluid; C&S skeleton; Dry skeleton",13
+"Fluid; Dry skeleton; C&S skeleton",13
+"Otolith",10
+"Otolith; Fluid; Tissue",8
+"Tissue; Otolith; Fluid",7
+"Dry skeleton; C&S skeleton; Fluid",6
+"Fluid; Pharyngeal jaw",6
+"Otolith; Tissue; Fluid",6
+"Pharyngeal jaw",6
+"Pharyngeal jaw; Fluid",6
+"Scale; Fluid",6
+"Tissue; Dry skeleton",6
+"Dry skeleton; Fluid; C&S skeleton",5
+"Fluid; C&S skeleton; Dry skeleton; Viscera",5
+"Fluid; C&S skeleton; Viscera",5
+"C&S skeleton; Fluid; Dry skeleton",3
+"Fluid; Misc",3
+"Fluid; Otolith; Tissue",3
+"Fluid; Scale; C&S skeleton",3
+"Fluid; Viscera; C&S skeleton",3
+"Viscera; Fluid",3
+"Dry skeleton; Tissue",2
+"Fluid; C&S skeleton; Scale",2
+"Fluid; Dry skeleton; C&S skeleton; Viscera",2
+"Fluid; Dry skeleton; Viscera",2
+"Fluid; Pharyngeal jaw; Viscera",2
+"Fluid; Viscera; Dry skeleton",2
+"Tissue; Dry skeleton; Fluid",2
+"X-ray; Fluid",2
+"C&S skeleton; Dry skeleton; Fluid",1
+"Dry skeleton; C&S skeleton; Fluid; Viscera",1
+"Dry skeleton; Viscera",1
+"Dry skeleton; Viscera; Fluid; C&S skeleton",1
+"Fluid; C&S skeleton; Tissue",1
+"Fluid; Dry skeleton; C&S skeleton; Scale; Viscera",1
+"Fluid; Dry skeleton; Tissue",1
+"Fluid; Otolith",1
+"Fluid; Tissue; Dry skeleton",1
+"Fluid; Tissue; Misc",1
+"Fluid; X-ray",1
+"Tissue; Fluid; Misc",1
+"Viscera; C&S skeleton; Fluid",1

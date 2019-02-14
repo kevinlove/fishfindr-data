@@ -1,0 +1,414 @@
+"dwc.preparations","freq"
+"EtOH - 1",10158
+"EtOH - 2",3756
+"EtOH - 3",2217
+"tissue - 1; EtOH - 1",1459
+"EtOH - 4",1409
+"EtOH - 5",1062
+"EtOH - 6",722
+"EtOH - 7",578
+"C&S - 1",528
+"EtOH - 8",519
+"EtOH - 10",457
+"EtOH - 9",407
+"skeleton - 1",331
+"EtOH - 12",292
+"EtOH - 11",250
+"EtOH - 13",224
+"EtOH - 25",218
+"EtOH - 15",201
+"EtOH - 14",192
+"EtOH - 20",166
+"EtOH - 16",150
+"EtOH - 0",140
+"EtOH - 17",138
+"EtOH - 18",124
+"EtOH - 21",109
+"EtOH",100
+"EtOH - 19",96
+"EtOH - 1; tissue - 1",90
+"EtOH - 22",81
+"EtOH - 23",73
+"EtOH - 30",73
+"EtOH - 24",68
+"tissue - 100; EtOH - 1",65
+"tissue - 1; C&S - 1",55
+"EtOH - 28",54
+"EtOH - 50",54
+"EtOH - 27",50
+"EtOH - 35",46
+"EtOH - 40",45
+"EtOH - 31",41
+"EtOH - 29",39
+"EtOH - 33",39
+"EtOH - 32",38
+"EtOH - 26",35
+"skeleton - 1; tissue - 1",35
+"EtOH - 36",34
+"EtOH - 34",32
+"EtOH - 38",31
+"EtOH - 37",28
+"EtOH - 42",27
+"tissue - 2; EtOH - 2",27
+"tissue - 1; skeleton - 1",26
+"EtOH - 41",23
+"EtOH - 44",23
+"EtOH - 100",22
+"EtOH - 56",22
+"tissue - 3; EtOH - 3",22
+"EtOH - 46",21
+"EtOH - 49",21
+"EtOH - 66",21
+"tissue - 1; EtOH - 2",21
+"EtOH - 45",20
+"EtOH - 39",18
+"EtOH - 43",18
+"",17
+"EtOH - 52",15
+"EtOH - 55",15
+"EtOH - 48",14
+"EtOH - 57",14
+"EtOH - 59",14
+"EtOH - 65",14
+"EtOH - 75",14
+"tissue - 1; EtOH - 3",14
+"EtOH - 51",13
+"EtOH - 60",13
+"tissue - 5; EtOH - 5",13
+"C&S - 2",12
+"EtOH - 61",12
+"EtOH - 62",12
+"EtOH - 80",12
+"EtOH - 67",11
+"EtOH - 69",11
+"EtOH - 70",11
+"EtOH - 1; EtOH - 1",10
+"EtOH - 47",10
+"EtOH - 53",10
+"EtOH - 54",10
+"skeleton - 1; tissue - 100",10
+"C&S - 5",9
+"EtOH - 110",9
+"EtOH - 64",9
+"EtOH - 83",9
+"EtOH - 85",9
+"tissue - 4; EtOH - 4",9
+"EtOH - 112",8
+"EtOH - 77",8
+"C&S - 4",7
+"EtOH - 161",7
+"EtOH - 72",7
+"EtOH - 84",7
+"tissue - 0; EtOH - 1",7
+"tissue - 1; EtOH - 5",7
+"C&S - 3",6
+"EtOH - 1; C&S - 1",6
+"EtOH - 1; tissue - 1; tissue - 1",6
+"EtOH - 101",6
+"EtOH - 150",6
+"EtOH - 58",6
+"EtOH - 63",6
+"EtOH - 68",6
+"EtOH - 73",6
+"EtOH - 87",6
+"EtOH - 91",6
+"EtOH - 97",6
+"C&S - 1; EtOH - 1",5
+"C&S - 7",5
+"EtOH - 1; SEM - 1",5
+"EtOH - 111",5
+"EtOH - 114",5
+"EtOH - 121",5
+"EtOH - 130",5
+"EtOH - 132",5
+"EtOH - 143",5
+"EtOH - 147",5
+"EtOH - 200",5
+"EtOH - 300",5
+"EtOH - 71",5
+"EtOH - 76",5
+"EtOH - 78",5
+"EtOH - 92",5
+"EtOH - 98",5
+"EtOH - 115",4
+"EtOH - 118",4
+"EtOH - 120",4
+"EtOH - 187",4
+"EtOH - 81",4
+"EtOH - 82",4
+"EtOH - 89",4
+"EtOH - 90",4
+"EtOH - 96",4
+"tissue - 2; EtOH - 5",4
+"EtOH - 1; tissue - 100",3
+"EtOH - 103",3
+"EtOH - 104",3
+"EtOH - 107",3
+"EtOH - 116",3
+"EtOH - 123",3
+"EtOH - 124",3
+"EtOH - 125",3
+"EtOH - 137",3
+"EtOH - 141",3
+"EtOH - 148",3
+"EtOH - 149",3
+"EtOH - 159",3
+"EtOH - 162",3
+"EtOH - 163",3
+"EtOH - 164",3
+"EtOH - 258",3
+"EtOH - 74",3
+"EtOH - 79",3
+"EtOH - 93",3
+"tissue - 1; EtOH - 4",3
+"tissue - 1; EtOH - 6",3
+"tissue - 6; EtOH - 6",3
+"C&S - 1; EtOH - 3",2
+"C&S - 15",2
+"C&S - 22",2
+"C&S - 8",2
+"EtOH - 0; tissue - 0",2
+"EtOH - 102",2
+"EtOH - 105",2
+"EtOH - 109",2
+"EtOH - 117",2
+"EtOH - 122",2
+"EtOH - 128",2
+"EtOH - 129",2
+"EtOH - 133",2
+"EtOH - 138",2
+"EtOH - 139",2
+"EtOH - 140",2
+"EtOH - 151",2
+"EtOH - 156",2
+"EtOH - 160",2
+"EtOH - 170",2
+"EtOH - 175",2
+"EtOH - 176",2
+"EtOH - 177",2
+"EtOH - 182",2
+"EtOH - 184",2
+"EtOH - 2; tissue - 2",2
+"EtOH - 213",2
+"EtOH - 220",2
+"EtOH - 224",2
+"EtOH - 232",2
+"EtOH - 243",2
+"EtOH - 260",2
+"EtOH - 269",2
+"EtOH - 3; skeleton - 1",2
+"EtOH - 311",2
+"EtOH - 414",2
+"EtOH - 86",2
+"EtOH - 88",2
+"EtOH - 94",2
+"EtOH - 95",2
+"EtOH - 99",2
+"Isopropyl - 1",2
+"tissue - 0; EtOH - 2",2
+"tissue - 1; EtOH - 10",2
+"tissue - 1; EtOH - 12",2
+"tissue - 1; EtOH - 7",2
+"tissue - 1; Isopropyl - 1",2
+"tissue - 2; EtOH - 4",2
+"tissue - 3; EtOH - 5",2
+"C&S - 1; EtOH - 12",1
+"C&S - 1; EtOH - 7",1
+"C&S - 1; skeleton - 1",1
+"C&S - 10",1
+"C&S - 12",1
+"C&S - 14",1
+"C&S - 2; C&S - 4",1
+"C&S - 20",1
+"C&S - 29",1
+"C&S - 3; EtOH - 19",1
+"C&S - 4; C&S - 7",1
+"C&S - 44",1
+"C&S - 6",1
+"C&S - 9",1
+"EtOH - 1; EtOH",1
+"EtOH - 1; EtOH - 1; EtOH - 1; EtOH - 1; EtOH - 1; skeleton - 1; tissue - 1",1
+"EtOH - 1; EtOH - 1; tissue - 1; EtOH - 1; EtOH - 1; EtOH - 1; formalin - 1; formalin - 1",1
+"EtOH - 1; tissue - 1; skeleton - 1",1
+"EtOH - 1; tissue - 100; tissue - 100",1
+"EtOH - 1; tissue - 3",1
+"EtOH - 106",1
+"EtOH - 108",1
+"EtOH - 1135",1
+"EtOH - 1151",1
+"EtOH - 119",1
+"EtOH - 126",1
+"EtOH - 131",1
+"EtOH - 134",1
+"EtOH - 135",1
+"EtOH - 136",1
+"EtOH - 152",1
+"EtOH - 155",1
+"EtOH - 158",1
+"EtOH - 167",1
+"EtOH - 171",1
+"EtOH - 173; C&S - 87",1
+"EtOH - 178",1
+"EtOH - 179",1
+"EtOH - 181",1
+"EtOH - 186",1
+"EtOH - 188",1
+"EtOH - 189",1
+"EtOH - 19; EtOH - 1",1
+"EtOH - 190",1
+"EtOH - 192",1
+"EtOH - 193",1
+"EtOH - 195",1
+"EtOH - 198",1
+"EtOH - 2; tissue - 1",1
+"EtOH - 2; tissue - 1; tissue - 1",1
+"EtOH - 2; tissue - 100; tissue - 100",1
+"EtOH - 201",1
+"EtOH - 202",1
+"EtOH - 206",1
+"EtOH - 207",1
+"EtOH - 208",1
+"EtOH - 210",1
+"EtOH - 211",1
+"EtOH - 216",1
+"EtOH - 217",1
+"EtOH - 223",1
+"EtOH - 225",1
+"EtOH - 228",1
+"EtOH - 229",1
+"EtOH - 233",1
+"EtOH - 234",1
+"EtOH - 235",1
+"EtOH - 238",1
+"EtOH - 239",1
+"EtOH - 240",1
+"EtOH - 241",1
+"EtOH - 242",1
+"EtOH - 244",1
+"EtOH - 249",1
+"EtOH - 253",1
+"EtOH - 256",1
+"EtOH - 259",1
+"EtOH - 264",1
+"EtOH - 266",1
+"EtOH - 270",1
+"EtOH - 272",1
+"EtOH - 273",1
+"EtOH - 280",1
+"EtOH - 285",1
+"EtOH - 290",1
+"EtOH - 299",1
+"EtOH - 3; EtOH - 1; EtOH - 1; EtOH - 1",1
+"EtOH - 302",1
+"EtOH - 303",1
+"EtOH - 309",1
+"EtOH - 310",1
+"EtOH - 314",1
+"EtOH - 317",1
+"EtOH - 318",1
+"EtOH - 321",1
+"EtOH - 322",1
+"EtOH - 326",1
+"EtOH - 327",1
+"EtOH - 334",1
+"EtOH - 347",1
+"EtOH - 350",1
+"EtOH - 359",1
+"EtOH - 362",1
+"EtOH - 370",1
+"EtOH - 373",1
+"EtOH - 375",1
+"EtOH - 377",1
+"EtOH - 383",1
+"EtOH - 385",1
+"EtOH - 388",1
+"EtOH - 4; EtOH - 2",1
+"EtOH - 4; tissue - 1; tissue - 1; tissue - 1",1
+"EtOH - 4; tissue - 100; tissue - 100; tissue - 100; tissue - 100",1
+"EtOH - 400",1
+"EtOH - 409",1
+"EtOH - 410",1
+"EtOH - 413",1
+"EtOH - 419",1
+"EtOH - 421",1
+"EtOH - 422",1
+"EtOH - 435",1
+"EtOH - 462",1
+"EtOH - 467",1
+"EtOH - 473",1
+"EtOH - 478",1
+"EtOH - 480",1
+"EtOH - 484",1
+"EtOH - 498",1
+"EtOH - 500",1
+"EtOH - 526",1
+"EtOH - 528",1
+"EtOH - 576",1
+"EtOH - 580",1
+"EtOH - 588",1
+"EtOH - 618",1
+"EtOH - 650",1
+"EtOH - 7; EtOH - 1",1
+"EtOH - 7; EtOH - 7",1
+"EtOH - 7; tissue - 1; tissue - 1; tissue - 1",1
+"EtOH - 717",1
+"EtOH - 748",1
+"EtOH - 760",1
+"EtOH - 777",1
+"EtOH - 8; tissue - 1; tissue - 1; EtOH - 1",1
+"EtOH - 887",1
+"EtOH; EtOH - 2",1
+"formalin - 2",1
+"methanol - 16; paraformaldehyde - 23",1
+"methanol - 2",1
+"methanol - 27",1
+"methanol - 37; paraformaldehyde - 200",1
+"methanol - 45; paraformaldehyde - 20",1
+"methanol - 8",1
+"methanol - 92; paraformaldehyde - 1",1
+"paraformaldehyde - 2",1
+"paraformaldehyde - 28",1
+"paraformaldehyde - 51",1
+"paraformaldehyde - 6; EtOH - 3",1
+"paraformaldehyde - 8",1
+"SEM - 1",1
+"skeleton - 1; C&S - 1",1
+"skeleton - 19",1
+"skeleton - 4",1
+"skeleton - 8",1
+"skeleton; tissue - 100",1
+"tissue - 0; EtOH - 3",1
+"tissue - 1",1
+"tissue - 1; EtOH",1
+"tissue - 1; EtOH - 17",1
+"tissue - 1; EtOH - 19",1
+"tissue - 1; EtOH - 20",1
+"tissue - 1; EtOH - 9",1
+"tissue - 100; EtOH - 1; EtOH - 1; EtOH - 1",1
+"tissue - 100; EtOH - 1; skeleton - 1; EtOH - 1; EtOH - 1",1
+"tissue - 11; EtOH - 11",1
+"tissue - 11; EtOH - 15",1
+"tissue - 14; EtOH - 20",1
+"tissue - 15; EtOH - 43",1
+"tissue - 2; EtOH - 11",1
+"tissue - 2; EtOH - 12",1
+"tissue - 2; EtOH - 15",1
+"tissue - 2; EtOH - 8",1
+"tissue - 3; EtOH - 113",1
+"tissue - 3; EtOH - 15",1
+"tissue - 3; EtOH - 19",1
+"tissue - 3; EtOH - 31",1
+"tissue - 3; EtOH - 4",1
+"tissue - 4; EtOH - 17",1
+"tissue - 4; EtOH - 8",1
+"tissue - 5; EtOH - 26",1
+"tissue - 6; EtOH - 10",1
+"tissue - 6; EtOH - 11",1
+"tissue - 6; EtOH - 32",1
+"tissue - 6; EtOH - 8",1
+"tissue - 6; EtOH - 9",1
+"tissue - 7; EtOH - 10",1
+"tissue - 7; EtOH - 13",1
+"tissue - 7; EtOH - 7",1
+"tissue - 7; EtOH - 8",1
+"unknown - 7; methanol - 9; paraformaldehyde - 3",1
